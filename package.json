@@ -9,6 +9,7 @@
     "typecheck": "react-router typegen && tsc"
   },
   "dependencies": {
+    "@payloadcms/db-mongodb": "^3.72.0",
     "@payloadcms/next": "^3.72.0",
     "@payloadcms/richtext-lexical": "^3.72.0",
     "@react-router/node": "^7.9.2",
