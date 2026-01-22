@@ -3,7 +3,7 @@
   "private": true,
   "type": "module",
   "version": "1.0.0",
-  "description": "The RUGS showroom, customer-facing e-commerce.",
+  "description": "The RUGS showroom: customer-facing e-commerce website.",
   "scripts": {
     "build": "react-router build",
     "dev": "react-router dev",
