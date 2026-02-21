@@ -46,5 +46,6 @@ export default buildConfig({
       }
     ],
     defaultLocale: 'en'
-  }
+  },
+  telemetry: false
 })
