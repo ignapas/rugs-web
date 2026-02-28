@@ -48,5 +48,6 @@ export default buildConfig({
     ],
     defaultLocale: 'en'
   },
-  telemetry: false
+  telemetry: false,
+  cors: ['http://localhost:5173']
 })

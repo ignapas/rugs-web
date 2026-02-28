@@ -173,7 +173,7 @@ export interface Media {
 export interface Section {
   id: string;
   _order?: string | null;
-  label?: string | null;
+  label: string;
   updatedAt: string;
   createdAt: string;
 }

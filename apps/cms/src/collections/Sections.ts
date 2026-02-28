@@ -7,7 +7,11 @@ export const Sections: CollectionConfig = {
     {
       name: 'label',
       type: 'text',
-      localized: true
+      localized: true,
+      required: true
     }
-  ]
+  ],
+  access: {
+    read: () => true
+  }
 }
